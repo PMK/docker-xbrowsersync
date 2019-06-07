@@ -1,3 +1,7 @@
+# ⛔️ THIS REPOSITORY IS ARCHIVED. USE THE OFFICIAL DOCKER INSTEAD: https://github.com/xbrowsersync/api-docker
+
+---
+
 # docker-xbrowsersync
 
 Dockerized xBrowserSync
